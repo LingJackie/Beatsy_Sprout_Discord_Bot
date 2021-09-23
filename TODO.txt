@@ -4,6 +4,5 @@
 
 
 Bug
--Error: write EPIPE from north korea video
-	-'https://www.youtube.com/watch?v=EuXMt54xqs4'
+-Error: write EPIPE this video: 'https://www.youtube.com/watch?v=EuXMt54xqs4'
 -call !play on a playlist will crash
